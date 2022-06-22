@@ -1,0 +1,22 @@
+{
+    "os": "macOS-12.2.1-x86_64-i386-64bit",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-22T04:18:46.495881",
+    "startedAt": "2022-06-22T04:18:43.560253",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/daiki/PycharmProjects/pythonProject/Research/test.py",
+    "codePath": "PycharmProjects/pythonProject/Research/test.py",
+    "git": {
+        "remote": "https://github.com/udon-dream/AOJ.git",
+        "commit": null
+    },
+    "email": "grape.daiki.sora@icloud.com",
+    "root": "/Users/daiki",
+    "host": "ADnoMacBook-Pro.local",
+    "username": "daiki",
+    "executable": "/Users/daiki/PycharmProjects/pythonProject/Research/venv/bin/python"
+}

@@ -1,0 +1,4 @@
+
+100% 1/1 [00:00<00:00,  2.02it/s]
+Epoch: 1, Loss: 1.0140473729372024
+tensor(1.1895, grad_fn=<SqrtBackward0>)

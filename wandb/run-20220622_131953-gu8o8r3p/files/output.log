@@ -1,0 +1,4 @@
+
+100% 1/1 [00:00<00:00,  1.65it/s]
+Epoch: 1, Loss: 1.0812785349786282
+性能はtensor(1.1112, grad_fn=<SqrtBackward0>)
