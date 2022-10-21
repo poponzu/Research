@@ -5,3 +5,4 @@
 - ver5 すべてのepochを100回にした。これからの実験のため
 # LSTM-SAE_bike
 - ver1  trainloss, valloss追加。
+- ver5   pollution_ver5をbikeのデータに置き換えた
