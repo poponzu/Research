@@ -13,7 +13,7 @@
 - ver5からnoiseなしにして、hidden_layers = [45,60,5]にかえてみる
 
 # 10_29時点
-pollutionはver３が一番精度良い
-bikeはver6が一番精度良い
+pollutionはver2が一番精度良い
+bikeはver1が一番精度良い
 
 bikeの方が論文と評価値がかけ離れている。
