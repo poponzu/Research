@@ -13,6 +13,7 @@
 - ver5からnoiseなしにして、hidden_layers = [45,60,5]にかえてみる
 
 # 10_29時点
+noiseなしという条件下では、
 - bikeはver1が一番精度良い
 - pollutionはver2が一番精度良い
 
