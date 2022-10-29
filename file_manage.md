@@ -11,3 +11,8 @@
 - ver7 ver6にnoiseを追加
 - ver8 ver6のhidden_layers = [33,5,47]に変更してみる
 - ver9 ver6のhidden_layers = [33,47,5]に変更
+
+
+10_29時点
+pollutionはver３が一番精度良い
+bikeはver6が一番精度良い
