@@ -15,7 +15,8 @@
 - ver8 add_swapnoiseにどれくらいの量のノイズ入れるかを入力できるようにする 100eopchで実行中
 - ver9 ver7にnoise三つ0.10を追加してみる
 - ver10 noise0.05,0.10,0.15の順で加える epoch_fine_tuneの回数をふやした。
-- ver11　ver9をもとにmasking noiseを実装
+- ver11　ver9をもとにgaussian noiseを実装 すべてepoch100で実行
+- ver12 masking noiseを実装したい
 
 # 10_29時点
 noiseなしという条件下では、
