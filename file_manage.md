@@ -16,8 +16,7 @@
 - ver9 ver7にnoise三つ0.10を追加してみる
 - ver10 noise0.05,0.10,0.15の順で加える epoch_fine_tuneの回数をふやした。
 - ver11　ver9をもとにgaussian noiseを実装 すべてepoch100で実行
-- ver12 masking noiseを実装したい
-
+- ver12 ver11を論文にパラメータすべて揃えてepochｓも本来と同じ回数でじっこうした
 # 10_29時点
 noiseなしという条件下では、
 - bikeはver1が一番精度良い
