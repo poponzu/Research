@@ -17,7 +17,8 @@
 - ver10 noise0.05,0.10,0.15の順で加える epoch_fine_tuneの回数をふやした。
 - ver11　ver9をもとにgaussian noiseを実装 すべてepoch100で実行
 - ver12 ver11を論文にパラメータすべて揃えてepochｓも本来と同じ回数でじっこうした
-- ver13 masking noise 実装する！！！ 論文にパラメータすべて揃えて実行するmaskingnoiseの実装は("https://stackoverflow.com/questions/54633038/how-to-add-masking-noise-to-numpy-2-d-matrix-in-a-vectorized-manner")をさんこうにした　
+- ver13 masking noise 実装する！！！ 論文にパラメータすべて揃えて実行するmaskingnoiseの実装は("https://stackoverflow.com/questions/54633038/how-to-add-masking-noise-to-numpy-2-d-matrix-in-a-vectorized-manner")をさんこうにした　。epoch全て100
+- ver14 ver13のepochを論文に揃える
 # 10_29時点
 noiseなしという条件下では、
 - bikeはver1が一番精度良い
