@@ -1,3 +1,9 @@
+RMSE 平均二乗誤差
+MAE 
+SMAPE
+
+# Case2 LSTM-SAE_pollution 結果
+
 |  ver  |  RMSE  |  MAE  |  SMAPE  |
 | ---- | ---- | ---- | ---- |
 | 7   |  24.06447  |  12.12307  |  10.27287  |
