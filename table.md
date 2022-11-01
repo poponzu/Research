@@ -2,6 +2,14 @@ RMSE 平均二乗誤差
 MAE 
 SMAPE
 
+# Case1 Bike sharing data予測の 結果
+
+|  ver  |  RMSE  |  MAE  |  SMAPE  |
+| ---- | ---- | ---- | ---- |
+| 論文モデル   |  46.927  |  30.041 |  11.646　　　|
+| ver1   |  56.32344  |  36.60057  |  12.46177  |
+| ver10   |  ？  |  ? |  ? |
+
 # Case2 LSTM-SAE_pollution 結果
 
 |  ver  |  RMSE  |  MAE  |  SMAPE  |
