@@ -5,6 +5,8 @@
 - ver7 ver6にnoiseを追加
 - ver8 ver6のhidden_layers = [33,5,47]に変更してみる
 - ver9 ver6のhidden_layers = [33,47,5]に変更
+- ver10 ver6のepoch数を元論文のパラメータに揃えて実行
+- 
 # Case2 LSTM-SAE_pollution
 - ver2 trainloss, valloss追加。
 - ver3 AEの学習曲線追加・コードの構造化
