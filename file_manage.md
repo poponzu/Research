@@ -28,6 +28,8 @@
 - ver19 masking noise0.1, 0.1,0.1を動かす
 - ver20 プレーンで動かす
 - ver21 salt and pepper noiseを実装する
+- ver22 swap 0.10, 0.15, 0.15を試してみる ver19とver7と比べる
+
 # 10_29時点
 noiseなしという条件下では、
 - bikeはver1が一番精度良い
