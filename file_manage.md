@@ -26,6 +26,8 @@
 - ver17 gaussianとmask混ぜる bikeのver10が終わり次第実行する ver18に移行
 - ver18  gaussianとmask混ぜる gaussian_masking_noise(0.1)を三つで実行
 - ver19 masking noise0.1, 0.1,0.1を動かす
+- ver20 プレーンで動かす
+- ver21 salt and pepper noiseを実装する
 # 10_29時点
 noiseなしという条件下では、
 - bikeはver1が一番精度良い
