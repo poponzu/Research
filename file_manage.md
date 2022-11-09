@@ -29,6 +29,8 @@
 - ver20 プレーンで動かす
 - ver21 salt and pepper noiseを実装する
 - ver22 swap 0.10, 0.15, 0.15を試してみる ver19とver7と比べる
+- ver23 24時間の範囲でしかswapをしないswap24で実行
+- ver24 shift_noiseを実装
 
 # 10_29時点
 noiseなしという条件下では、
