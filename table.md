@@ -12,6 +12,14 @@ SMAPE
 | ver6(noiseなし 100epoch)   |  59.15082  |  38.58416 |  12.80995 |
 | ver7(swapnoiseあり 100epoch)   |  59.11324  |  38.09890 |  13.42290 |
 
+
+|  使用したモデル  |  RMSE  |  MAE  |  SMAPE  |
+| ---- | ---- | ---- | ---- |
+| LSTM-SAE(論文モデル)   |  46.927  |  30.041 |  11.646　　　|
+|  LSTM-SAE(自作) |  56.32344  |  36.60057  |  12.46177  |
+|  LSTM-SDAE(swap 0.1,0.1, 0.1) |  59.11324  |  38.09890 |  13.42290 |
+
+
 # Case2 LSTM-SAE_pollution 結果
 
 |  ver  |  RMSE  |  MAE  |  SMAPE  |
