@@ -7,6 +7,10 @@
 - ver9 ver6のhidden_layers = [33,47,5]に変更
 - ver10 ver6のepoch数を元論文のパラメータに揃えて実行
 - ver11 ver1のepochs_finetuneをepochs_finetune = 355に変更して実行中
+
+- ver_plane1~4 プレーンを複数回実行用
+- ver_swap1~4 swap noiseを複数回実行用
+- ver_gaussian1 gaussian noiseを複数回実行用
 # Case2 LSTM-SAE_pollution
 - ver2 trainloss, valloss追加。
 - ver3 AEの学習曲線追加・コードの構造化
@@ -44,3 +48,6 @@ noiseなしという条件下では、
 bikeの方が論文と評価値がかけ離れている。
 
 verの横に精度ものせれるようにしたいね
+# 11_14 時点
+複数回実行して精度を比べる(plane, swap, gausssian)
+masking noiseで０ではなく最小値や平均値で埋めてみる等する
