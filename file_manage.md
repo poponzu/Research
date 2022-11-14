@@ -32,6 +32,10 @@
 - ver23 24時間の範囲でしかswapをしないswap24で実行
 - ver24 shift_noiseを実装
 
+
+- ver_plane1~4 ver20のプレーンを複数回実行用
+- ver_swap1~4 swap noiseを複数回実行用
+
 # 10_29時点
 noiseなしという条件下では、
 - bikeはver1が一番精度良い
