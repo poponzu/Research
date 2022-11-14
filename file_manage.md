@@ -52,4 +52,4 @@ verの横に精度ものせれるようにしたいね
 - 複数回実行して精度を比べる(plane, swap, gausssian)
 - masking noiseで０ではなく最小値や平均値で埋めてみる等する
 - SAEの論文見て何回実行して統計量とってるかをみる
-
+- bikeのplane1,swap1,gaussian1,pollutionのplane1~4の7つを動かしている
