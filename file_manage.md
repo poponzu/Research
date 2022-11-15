@@ -53,3 +53,5 @@ verの横に精度ものせれるようにしたいね
 - masking noiseで０ではなく最小値や平均値で埋めてみる等する
 - SAEの論文見て何回実行して統計量とってるかをみる
 - bikeのplane1,swap1,gaussian1,pollutionのplane1~4の7つを動かしている
+# 11_15時点
+bikeのガウス234, swapの234、pollutionのswap1234の１０個を実行している
